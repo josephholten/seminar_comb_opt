@@ -1,0 +1,5 @@
+# very large pdfs
+book_with_chapters.pdf
+
+# latex compile files
+**/latex_out
